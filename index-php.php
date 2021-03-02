@@ -1,5 +1,5 @@
 <?php
-    include 'music_db.php';
+    include 'db.php';
 ?>
 
 <!DOCTYPE html>
